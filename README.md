@@ -4,6 +4,10 @@ Hi there :wave: I am Yasoob. Currently working on Azure cloud network at Microso
 
 ### Favourite Articles
 
+👉 [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
+
+We all use JPEG images every day and almost every software supports JPEG but most of us don't know how the JPEG compression algorithm works under-the-hood. Come with me on an adventure where we uncover and understand the JPEG algorithm and then write some Python code to decode a JPEG image.
+
 👉 [Reverse Engineering Nike Run Club Android App Using Frida](https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/)
 
 After using apktool for reverse-engineering android apps I learned about Frida. Ever wondered how you can use Frida to snoop around Android apps? Learn how to do that in this step-by-step tutorial where we take a look at the Nike Run Club app.
