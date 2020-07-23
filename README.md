@@ -39,5 +39,5 @@ It is a Meme, Motivation, Jokes and Shower Thoughts facebook messenger bot which
 
 Feel free to follow me:
 
-- 🐦 [Twitter](https://twitter.com/yasoob_khalid)
+- 🐦 [Twitter](https://twitter.com/yasoobkhalid)
 - 📸 [Instagram](https://www.instagram.com/yasoob_art/)
